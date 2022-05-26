@@ -1,1 +1,1 @@
-# charts
+# Helm chart repository

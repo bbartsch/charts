@@ -1,5 +1,6 @@
 # Helm chart repository
 [GitHub repo](https://github.com/bbartsch/charts)
+[Chart repo](https://bbartsch.github.io/charts)
 
 ## Usage
 
@@ -9,7 +10,7 @@ Helm's [documentation](https://helm.sh/docs) to get started.
 
 To add the repo:
 ```shell
-helm repo add bbartsch https://bbartsch.github.io/helm-charts
+helm repo add bbartsch https://bbartsch.github.io/charts
 
 # Update repos
 helm repo update
